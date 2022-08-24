@@ -2,7 +2,7 @@
 
 
 I make elegantly professional **🌐 Websites and   Hybrid Development** for a living and also **Write some blogs**.   
-< img align="right" src="https://github-readme-stats.vercel.app/api?username=bbcvc&show_icons=true" width="400" />
+< img align="right" src="https://github-readme-stats.vercel.app/api?username=Z-SmallRock&show_icons=true" width="400" />
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 🌱   Currently learning Economics & Philosophy.
