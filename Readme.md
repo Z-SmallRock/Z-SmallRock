@@ -2,13 +2,13 @@
 
 
 I make elegantly professional **🌐 Websites and   Hybrid Development** for a living and also **Write some blogs**.   
-< img align="right" src="https://github-readme-stats.vercel.app/api?username=Z-SmallRock&show_icons=true" width="400" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-SmallRock)](https://github.com/anuraghazra/github-readme-stats)
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 🌱   Currently learning Economics & Philosophy.
 *    With 3 years' development working experience.
 *    Encouraging people for open source collaborations.
-*    How to reach me: [twitter](https://twitter.com/Eric55718370)、[bilibli](https://space.bilibili.com/87795515)、[📸instagram](https://www.instagram.com/beetofday/)
+*    How to reach me: 
 
 <!--
   <details>
@@ -21,7 +21,7 @@ I make elegantly professional **🌐 Websites and   Hybrid Development** for a l
   </details>
  -->
 <!--
-**bbcvc/bbcvc** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
+**Z-SmallRock/Z-SmallRock** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
