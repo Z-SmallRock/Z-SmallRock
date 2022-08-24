@@ -6,9 +6,8 @@ I make elegantly professional **🌐 Websites and   Hybrid Development** for a l
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 🌱   Currently learning Economics & Philosophy.
-*    With 3 years' development working experience.
+*    With 7 years' development working experience about C++.
 *    Encouraging people for open source collaborations.
-*    How to reach me: 
 
 <!--
   <details>
